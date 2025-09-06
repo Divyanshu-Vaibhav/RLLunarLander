@@ -7,3 +7,4 @@ models/ppo_lander_cont_ckpt
 verify_setup.py
 ./.DS_Store
 **/.DS_Store
+videos
