@@ -15,14 +15,15 @@ Reproducible RL benchmark comparing PPO, DQN (discrete) and PPO, SAC (continuous
 |-----------|-------------|-------------|---------|----------------|----------------|
 | PPO | Discrete | 217 | ±15 | ~437 | 1,000,000 |
 | DQN | Discrete | 121 | ±89 | ~588 | 1,500,000 |
-| PPO | Continuous | TBD | TBD | TBD | 1,500,000 |
+| PPO | Continuous | 163 | TBD | ~453 | 1,500,000 |
 | SAC | Continuous | 282 | TBD | ~201 | 750,000 |
 
 ## 🎥 Demo Videos
 
 
+
 ### PPO (Discrete Control)
-<video src="https://github.com/user-attachments/assets/b8a1f3e8-c22b-414a-aab5-558bda2715ff
+<video src="https://github.com/user-attachments/assets/7b935d94-c4bb-426b-97b4-f91950241cbd
 " controls width="600"></video>
 
 ### DQN (Discrete Control)  
