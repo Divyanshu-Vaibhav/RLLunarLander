@@ -1,4 +1,3 @@
-# train_sac_lander_cont.py
 import os, gymnasium as gym
 from stable_baselines3 import SAC
 from stable_baselines3.common.monitor import Monitor
