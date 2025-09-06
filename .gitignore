@@ -2,4 +2,6 @@ rl-env/
 runs/
 models/ppo_lander_v3_ckpt
 models/dqn_lander_v3_ckpt
+models/sac_lander_cont_ckpt
+models/ppo_lander_cont_ckpt
 verify_setup.py
